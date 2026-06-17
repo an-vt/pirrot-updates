@@ -1,0 +1,5 @@
+*.app
+*.dmg
+.history/
+.DS_Store
+Releases/
