@@ -7,5 +7,18 @@
         <link>https://raw.githubusercontent.com/an-vt/pirrot-updates/main/appcast.xml</link>
         <description>Pirrot update feed</description>
         <language>en</language>
+        <item>
+            <title>Version 1.0.0</title>
+            <pubDate>Wed, 17 Jun 2026 12:36:41 +0000</pubDate>
+            <sparkle:version>2</sparkle:version>
+            <sparkle:shortVersionString>1.0.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[Release production v1.0.0]]></description>
+            <enclosure
+                url="https://github.com/an-vt/pirrot-updates/releases/download/v1.0.0/Pirrot-1.0.0.dmg"
+                sparkle:edSignature="ZwkpdO2lN2dFAXm8hclpd+HDI5qmCp6kIQsjJBrxDRm6U5Cjzjr6m/XI4eTrmttw4IkHxj6RrnZs/cYFhtM4Cg=="
+                length="10969712"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
