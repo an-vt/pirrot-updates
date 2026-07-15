@@ -20,5 +20,22 @@
                 length="10969712"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 1.1.0</title>
+            <pubDate>Wed, 15 Jul 2026 10:02:05 +0000</pubDate>
+            <sparkle:version>4</sparkle:version>
+            <sparkle:shortVersionString>1.1.0</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Version 1.1.0</h2>
+<ul>
+  <li>Update cloud base account.</li>
+  <li>Support more languages, upload file.</li>
+</ul>]]></description>
+            <enclosure
+                url="https://github.com/an-vt/pirrot-updates/releases/download/v1.1.0/Pirrot-1.1.0.dmg"
+                sparkle:edSignature="++6Ld5DkWZCJDVpGW26hCR6KDTe9NVOuaKKgyMAIjzXdRKsjcaUXhFQjP+bMxwekxKuIL/mlJXF1O9umw59HDg=="
+                length="10541837"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
