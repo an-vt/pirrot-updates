@@ -53,5 +53,21 @@
                 length="10550383"
                 type="application/octet-stream"/>
         </item>
+        <item>
+            <title>Version 1.1.2</title>
+            <pubDate>Sun, 26 Jul 2026 09:19:06 +0000</pubDate>
+            <sparkle:version>7</sparkle:version>
+            <sparkle:shortVersionString>1.1.2</sparkle:shortVersionString>
+            <sparkle:minimumSystemVersion>15.0</sparkle:minimumSystemVersion>
+            <description><![CDATA[<h2>Version 1.1.2</h2>
+<ul>
+  <li>Fix bug, improve performance.</li>
+</ul>]]></description>
+            <enclosure
+                url="https://github.com/an-vt/pirrot-updates/releases/download/v1.1.2/Pirrot-1.1.2.dmg"
+                sparkle:edSignature="u+ZSHn5ig/hMFEZ4KbyqJs2p22e4wfXeBhkgTSJtZSRVcvlEEqxbhQRLT4e1312FH0YMNgABEYdDi345UF4XCg=="
+                length="10452229"
+                type="application/octet-stream"/>
+        </item>
     </channel>
 </rss>
